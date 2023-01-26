@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome! 👋
+
+- 🔭 Love to learn new things and have amazing experiences!
+- 🌱 Currently participating in a Data Science Bootcamp and improving everyday my coding skills.
+- 👯 Looking forward to collaborate on projects to learn more!
+- 📝 Check out my [LinkedIn](www.linkedin.com/in/kaqreal).
+- 😄 Skills: 
+
 
 <!--
 **kaqreal/kaqreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📙 Check out my [resume](www.linkedin.com/in/kaqreal)
 - ⚡ Fun fact: ...
+
 -->
