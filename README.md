@@ -10,11 +10,13 @@ My name is **Karine Real** and I'm passionate about constant learning new things
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/kareal/).
 
 ### More?? Sure!!
-- 👾 I have experience with EDA, Data Preprocessing, Machine Learning, Neural Networks and Image Classification with TensorFlow|Keras.
-- 💻 Coding: Python | R | PostgreSQL | Unix
-- 💡 Project Management: Agile Methodologies | Kanban | Scrum
+- 👾 Experience with: EDA & Visualisation | Machine Learning Supervised & Unsupervised | Neural Networks & Deep Learning
+- 👩‍💻 Languages: Python | R | PostgreSQL | Unix
+- 💻 Frameworks: Tensorflow, Jupyter
+- 📚 Libraries: Keras, Plotly, Matplotlib, Scikit-Learn, SciPy, Seaborn, Pandas, Numpy and others.
+- ☁️ Cloud: Google Cloud
+- 💡 Project Management: Agile Methodologies | Scrum
 - 👻 Fun Fact: I love to travel 🚀 and I have been already to 16 countries 🧳.
-
 
 <!--
 **kaqreal/kaqreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
