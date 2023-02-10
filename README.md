@@ -10,7 +10,7 @@ My name is **Karine Real** and I'm passionate about constant learning new things
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/kareal/).
 
 ### More?? Sure!!
-- 👾 Experience with: EDA & Visualisation | Machine Learning Supervised & Unsupervised | Neural Networks & Deep Learning
+- 👾 Experience with: EDA & Visualisation | Machine Learning | Neural Networks
 - 👩‍💻 Languages: Python | R | PostgreSQL | Unix
 - 💻 Frameworks: Tensorflow, Jupyter
 - 📚 Libraries: Keras, Plotly, Matplotlib, Scikit-Learn, SciPy, Seaborn, Pandas, Numpy and others.
