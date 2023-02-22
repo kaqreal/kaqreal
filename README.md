@@ -5,9 +5,9 @@ My name is **Karine Real** and I'm passionate about constant learning new things
 ### About me
 - 🤓 My background is B.Sc. in Pharmacy 💊 and M.Sc. in Neurobiology 🧠.
 - 💬 Let's talk in Portuguese, Spanish, German or English.
-- 🎉 Currently participating in a Data Science Bootcamp and improving everyday my coding skills.
+- 🎉 Just graduated from my Data Science Bootcamp, but I continue to improve everyday my coding skills.
 - 👯 Looking forward to collaborate on projects to learn more!
-- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/kareal/).
+- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/kaqreal/).
 
 ### More?? Sure!!
 - 👾 Experience with: EDA & Visualisation | Machine Learning | Neural Networks
